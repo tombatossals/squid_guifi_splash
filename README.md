@@ -13,4 +13,4 @@ Ejemplo
 =======
 Esta es una captura de la página que uso yo en mi proxy.
 
-![Proxy Castalia](proxy.png "Proxy Castalia")
+![Proxy Castalia](https://github.com/tombatossals/squid_guifi_splash/raw/master/proxy.png "Proxy Castalia")
